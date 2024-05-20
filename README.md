@@ -8,4 +8,9 @@ Accounting, Finance, Economics.
 (IT) Cpu Systems Designer: Intelligent Systems. 
 Modernity Distribution Services 
 "Future Development" 
-Hardware, Operating System, Software.
+Hardware, Operating System, Software. 
+
+(Education) PhD: Business Psychology.
+Unisversity of Chicago 
+"Knowledge is Power, Ignorance is Bliss" 
+Industrial Organization 
