@@ -22,3 +22,9 @@ Dover, De
 Service Areas:
 Financial Districts, 
 Toronto, New York, Chicago
+
+Reactor Computing Technologies
+"Something New"
+Adamant (computer), Ethereal (cellphone).
+Lineups: Rectitude, Constellation, Element.
+Developments: Construct, Entity.
