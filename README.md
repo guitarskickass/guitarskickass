@@ -1,30 +1,30 @@
-Ilios Selene "Dedicated Solutions" 
-Business Management and IT 
-Conglomerate
+<p>Ilios Selene "Dedicated Solutions"<br>
+Business Management and IT<br>
+Conglomerate</p>
 
-(Business) Entrepreneur: Owner/Founder, CEO, Director, Partner. 
-Modernity Collective Group 
-"Elite Performance"
-Accounting, Finance, Economics. 
+<p>(Business) Entrepreneur: Owner/Founder, CEO, Director, Partner.<br>
+Modernity Collective Group<br>
+"Elite Performance"<br>
+Accounting, Finance, Economics.</p>
 
-(IT) Cpu Systems Designer: Intelligent Systems. 
-Modernity Distribution Services
-"Future Development"
-Hardware, Operating Systems, Software. 
+<p>(IT) Cpu Systems Designer: Intelligent Systems.<br>
+Modernity Distribution Services<br>
+"Future Development"<br>
+Hardware, Operating Systems, Software.</p>
 
-(Education) Phd: Business Administration/Computer Science.
-University of Chicago
-"Knowledge is Power, Ignorance is Bliss" 
-Industrial Organization, Full-System Simulation
+<p>(Education) Phd: Business Administration/Computer Science.<br>
+University of Chicago<br>
+"Knowledge is Power, Ignorance is Bliss"<br>
+Industrial Organization, Full-System Simulation</p>
 
-Head Office:
-Dover, De
-Service Areas:
-Financial Districts, 
-Toronto, New York, Chicago
+<p>Head Office:<br>
+Dover, De<br>
+Service Areas:<br>
+Financial Districts,<br>
+Toronto, New York, Chicago<br>
 
-Reactor Computing Technologies
-"Something New"
-Adamant (computer), Ethereal (cellphone).
-Lineups: Rectitude, Constellation, Element.
-Developments: Construct, Entity, Envsion.
+<p>Reactor Computing Technologies<br>
+"Something New"<br>
+Adamant (computer), Ethereal (cellphone).<br>
+Lineups: Rectitude, Constellation, Element.<br>
+Developments: Construct, Entity, Envsion.</p>
