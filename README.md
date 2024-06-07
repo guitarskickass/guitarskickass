@@ -12,10 +12,10 @@ Modernity Distribution Services
 "Future Development"
 Hardware, Operating Systems, Software. 
 
-(Education) Phd: Business Psychology.
+(Education) Phd: Business Administration/Computer Science.
 University of Chicago
 "Knowledge is Power, Ignorance is Bliss" 
-Industrial Organization  
+Industrial Organization, Full-System Simulation
 
 Head Office:
 Dover, De
@@ -27,4 +27,4 @@ Reactor Computing Technologies
 "Something New"
 Adamant (computer), Ethereal (cellphone).
 Lineups: Rectitude, Constellation, Element.
-Developments: Construct, Entity.
+Developments: Construct, Entity, Envsion.
